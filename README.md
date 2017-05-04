@@ -1,3 +1,4 @@
+> Note: A fork of [docker-syncthing](https://registry.hub.docker.com/u/joeybaker/syncthing/). This repo is referenced in my private copy(to aviod legal risk).
 # docker-syncthing [![Docker Pulls](https://img.shields.io/docker/pulls/joeybaker/syncthing.svg)](https://registry.hub.docker.com/u/joeybaker/syncthing/)
 
 Run [syncthing](https://syncthing.net) from a docker container
